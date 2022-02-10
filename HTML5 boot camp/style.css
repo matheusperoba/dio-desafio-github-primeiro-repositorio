@@ -2,7 +2,9 @@ body {
     border: 12px solid purple;
     background-color:chocolate;
     text-align-last: center;
+    margin: auto;
     color: aqua;
+    border-radius: 20px;
 }
 #titulo,#subtitulo,#post_title{
     color: blueviolet;
@@ -13,16 +15,25 @@ body {
 #post_title{
     color: rgb(18, 122, 213);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 100px;
+    font-size: 80px;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 p{
     color:blue;
-    font-size: 15px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 footer{
-    border: 12px solid purple;
+
     background-color:chocolate;
     text-align-last: center;
     color: aqua;
 }
+#img{
+    border: 2px black solid;
+    border-radius: 50%;
+}
+#lista{
+    list-style-type: "\1F251"
