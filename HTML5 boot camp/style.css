@@ -1,0 +1,28 @@
+body {
+    border: 12px solid purple;
+    background-color:chocolate;
+    text-align-last: center;
+    color: aqua;
+}
+#titulo,#subtitulo,#post_title{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    align:center;
+}
+#post_title{
+    color: rgb(18, 122, 213);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+p{
+    color:blue;
+    font-size: 15px;
+}
+
+footer{
+    border: 12px solid purple;
+    background-color:chocolate;
+    text-align-last: center;
+    color: aqua;
+}
